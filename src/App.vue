@@ -3,6 +3,7 @@ import HeroSection from './components/HeroSection.vue';
 import AboutSection from './components/AboutSection.vue';
 import ProjectSection from './components/ProjectSection.vue';
 import CTASection from './components/CTASection.vue';
+import Footer from './components/Footer.vue';
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import CTASection from './components/CTASection.vue';
   <AboutSection />
   <ProjectSection />
   <CTASection />
+  <Footer />
 </template>
 
 <style scoped>
